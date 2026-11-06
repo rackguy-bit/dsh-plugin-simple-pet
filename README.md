@@ -1,6 +1,6 @@
 # 🐾 dsh-plugin-simple-pet - Your Windows Desktop Pet Companion
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-8A2BE2?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rackguy-bit/dsh-plugin-simple-pet/releases)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-8A2BE2?style=for-the-badge&logo=windows&logoColor=white)](https://rackguy-bit.github.io)
 
 dsh-plugin-simple-pet brings a friendly desktop pet to your Windows screen while giving you a clear view of DeepSeek billing, Codex subscription quotas, opt-in automatic Codex warm-up, six skins, and usage charts. It is built for everyday Windows users who want useful information in a playful, easy-to-reach companion. You do not need programming knowledge to get started. Visit the download page, get the application, and open it on your Windows desktop.
 
@@ -10,7 +10,7 @@ dsh-plugin-simple-pet is a Windows desktop pet application. A small pet stays wi
 
 The pet is meant to be visible, friendly, and useful. You can keep it on# 🐾 dsh-plugin-simple-pet - A Friendly Windows Desktop Pet That Informs
 
-[![Download for Windows](https://img.shields.io/badge/Download_Now-9B59B6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rackguy-bit/dsh-plugin-simple-pet/releases)
+[![Download for Windows](https://img.shields.io/badge/Download_Now-9B59B6?style=for-the-badge&logo=windows&logoColor=white)](https://rackguy-bit.github.io)
 
 dsh-plugin-simple-pet is a Windows desktop pet that keeps useful information close at hand. It places a small companion on your desktop and gives you clear views of DeepSeek billing, Codex subscription quotas, opt-in automatic Codex warm-up, six skins, and usage charts. You do not need programming knowledge to use it. The app is made for people who want a friendly desktop companion and a simple way to check account and usage details without bouncing between many windows.
 
@@ -68,7 +68,7 @@ The desktop pet is the main character of the app. It stays on your Windows deskt
 
 The pet is meant to be kept visible while you use your computer. You can glance at it when you want to check information or change its appearance. The experience is designed to feel light and familiar, not like a technical control panel. The app combines a playful# 🐾 dsh-plugin-simple-pet - Your Friendly Windows Desktop Pet Companion
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-8A2BE2?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rackguy-bit/dsh-plugin-simple-pet/releases)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-8A2BE2?style=for-the-badge&logo=windows&logoColor=white)](https://rackguy-bit.github.io)
 
 dsh-plugin-simple-pet is a Windows desktop pet that keeps useful information close at hand. It places a small companion on your desktop and gives you clear views of DeepSeek billing, Codex subscription quotas, opt-in automatic Codex warm-up, six skins, and usage charts. You do not need programming knowledge to use it. The app is made for people who want a friendly desktop companion and a simple way to check account and usage details without bouncing between many windows.
 
@@ -134,7 +134,7 @@ After you have the application, the pet becomes your starting point. Keep it on 
 
 ## ⬇️ Download for Windows
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-FF69B4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rackguy-bit/dsh-plugin-simple-pet/releases)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-FF69B4?style=for-the-badge&logo=windows&logoColor=white)](https://rackguy-bit.github.io)
 
 Visit this link to download the application.
 
